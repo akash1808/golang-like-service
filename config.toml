@@ -1,0 +1,10 @@
+[MySQLConnector]
+mySQLUrl            = "localhost:3306"
+mySQLDatabase       = "relambda"
+mySQLUsername       = "rwuser"
+mySQLPassword       = "rwuser"
+mySQLNetwork        = "tcp"
+
+
+[RedisConfig]
+address          = "localhost:6379"
